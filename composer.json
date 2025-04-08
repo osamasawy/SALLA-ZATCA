@@ -1,25 +1,25 @@
 {
-    "name": "salla/zatca",
-    "description": "A helper to generate the QR code and signed it for ZATCA e-invoicing",
+    "name": "salla-zatca",
+    "description": "A helper to generate the QR code and sign it for ZATCA e-invoicing",
     "type": "library",
     "keywords": [
         "ZATCA",
-        "e-invocing",
+        "e-invoicing",
         "salla",
         "qr-code"
     ],
-    "homepage": "https://github.com/salla/zatca",
+    "homepage": "https://github.com/osamasawy/SALLA-ZATCA",
     "license": "MIT",
     "authors": [
         {
-            "name": "Salla Team",
-            "email": "support@salla.dev",
-            "homepage": "https://salla.dev"
+            "name": "Osama Sawy (Forked from Salla)",
+            "email": "osama@example.com",
+            "homepage": "https://github.com/osamasawy"
         }
     ],
     "support": {
-        "issues": "https://github.com/salla/zatca/issues",
-        "source": "https://github.com/salla/zatca"
+        "issues": "https://github.com/osamasawy/SALLA-ZATCA/issues",
+        "source": "https://github.com/osamasawy/SALLA-ZATCA"
     },
     "minimum-stability": "stable",
     "require": {
