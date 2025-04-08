@@ -1,5 +1,5 @@
 {
-    "name": "salla-zatca",
+    "name": "osamasawy/salla-zatca",
     "description": "A helper to generate the QR code and sign it for ZATCA e-invoicing",
     "type": "library",
     "keywords": [
